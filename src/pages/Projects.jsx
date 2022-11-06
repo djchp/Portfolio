@@ -57,7 +57,7 @@ const Projects = () => {
         className=" absolute top-56 flex add:flex-col"
       >
         {projectsData.map((p) => (
-          <ProjectCard name={p.name} description={p.description} tech={p.tech}/>
+          <ProjectCard name={p.name} description={p.description} tech={p.tech} githubLink={p?.githubLink}/>
         ))}
       </motion.div>
       <LeftBarIcons />
