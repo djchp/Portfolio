@@ -85,6 +85,8 @@ const Skills = () => {
             Things i am planning to learn:
           </span>
           <br />
+          -Vue.js (ultimately Nuxt)
+          <br />
           -Kubernetes / Terraform
           <br />
           -React CMS like strapi
