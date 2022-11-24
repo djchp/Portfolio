@@ -55,7 +55,7 @@ const Skills = () => {
         transition={{ delay: 1 }}
         className=" py-28 flex z-2 absolute normal:flex-col "
       >
-        <div className=" p-8 w-[35vw] normal:w-[54vw] h-[60vh] border-4 border-black dark:border-white sm:text-[4vw] m-8 z-1 dark:text-white">
+        <div className=" p-8 w-[35vw] normal:w-[54vw] h-[60vh] normal:h-[66vh] border-4 border-black dark:border-white sm:text-[4vw] m-8 z-1 dark:text-white">
           <span className=" font-medium text-2xl">Skills:</span>
           <br />
           -React
